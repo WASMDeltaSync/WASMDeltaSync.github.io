@@ -1,2 +1,2 @@
-# WASMDeltaSync.github.io
+# WebDeltaSync.github.io
 homepage for projects
